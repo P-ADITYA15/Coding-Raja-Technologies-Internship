@@ -2,6 +2,7 @@
 The first task was to Build a Resume Builder and the Second one is a Music Player
 
 #1 The first Task is Build using Nodejs by using Express js Framework.
+
 #2 The Second Task is Music Player which is Static Build using just vanilla js.
 
 Common in Both of them are it's build using basic languages HTML, CSS , JAVASCRIPT.
